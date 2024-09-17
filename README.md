@@ -31,4 +31,4 @@ I'm currently pursuing K.S.Rangasamy College of Technology
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SuvethaSenthilkumar?theme=dark&font=Marcellus&ext=contest))](https://leetcode.com/hareeshprogrammer)
 
-[([![Suvetha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuvethaSenthil&bg_color=000000&color=4d00ea&line=ffffff&point=00ffff&area=true&hide_border=true)])](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Suvetha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuvethaSenthil&bg_color=000000&color=4d00ea&line=ffffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
