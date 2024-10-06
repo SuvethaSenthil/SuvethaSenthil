@@ -51,7 +51,7 @@ I'm currently pursuing K.S.Rangasamy College of Technology
 <br>
 
 ### LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/SuvethaSenthil?theme=dark&font=Marcellus&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SuvethaSenthilkumar?theme=dark&font=Marcellus&ext=heatmap)
 
 <br>
 
