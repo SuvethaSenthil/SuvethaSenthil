@@ -23,7 +23,8 @@ I'm currently pursuing K.S.Rangasamy College of Technology
 <br>
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<p>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
@@ -31,6 +32,7 @@ I'm currently pursuing K.S.Rangasamy College of Technology
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
+</p>
 <br>
 
 ### IDE and Tools I Use
