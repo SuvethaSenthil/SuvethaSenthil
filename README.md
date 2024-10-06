@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Suvetha
 
-I'm currently pursuing K.S.Rangasamy College of Technology
+👩🏻‍💻 I'm currently pursuing K.S.Rangasamy College of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                              
 - 🌱 I’m currently learning DSA
 - 💻 Aspiring full-stack developer with a passion for technology, focused on building user-friendly applications. I excel in both front-end and back-end development, with a strong passion for cloud technologies and AI integration.
@@ -11,8 +11,7 @@ I'm currently pursuing K.S.Rangasamy College of Technology
 
 <br>
 
-### Skill
-<br>
+###  🔧 Skills
 -LANGUAGES
 <br>Intermediate: Java | HTML | CSS | JS
 <br>Beginner: MongoDB | NodeJS <br>
@@ -50,7 +49,7 @@ I'm currently pursuing K.S.Rangasamy College of Technology
 </p>
 <br>
 
-### LeetCode Stats
+### LeetCode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SuvethaSenthilkumar?theme=dark&font=Marcellus&ext=heatmap)
 
 <br>
