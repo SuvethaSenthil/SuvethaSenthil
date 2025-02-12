@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Suvetha
 
 👩🏻‍💻 I'm currently pursuing K.S.Rangasamy College of Technology
-<img align="right" width="370" height="290" src="https://static.vecteezy.com/system/resources/previews/012/744/791/large_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg">                                              
+<img align="right" width="370" height="290" src="https://static.vecteezy.com/system/resources/previews/044/448/942/original/cartoon-character-with-the-desk-working-concept-illustration-free-png.png">                                              
 - 🌱 I’m currently learning DSA
 - 💻 Aspiring full-stack developer with a passion for technology, focused on building user-friendly applications. I excel in both front-end and back-end development, with a strong passion for cloud technologies and AI integration.
 - 📫 How to reach me :
